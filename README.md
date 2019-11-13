@@ -3,15 +3,15 @@
 
 ## Как запустить у себя
 
-Скопируйте себе этот репозиторий 
+## Скопируйте себе этот репозиторий 
 $ git clone https://github.com/evgdudareff/armo_systems
 
-Перейдите в репозиторий armo_systems
+## Перейдите в репозиторий armo_systems
 $ cd armo_systems
 
-Установите все зависимости npm i
+## Установите все зависимости npm i
 $ npm i
 
-Запустите
+## Запустите
 $ npm start
 
