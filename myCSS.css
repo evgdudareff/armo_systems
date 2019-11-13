@@ -1,0 +1,11 @@
+/* немного стилей */
+li {
+  list-style: none;
+  border: 1px solid black;
+  padding-left: 80px;
+  margin-bottom: 15px;
+}
+
+.title {
+  font-weight: bold;
+}
